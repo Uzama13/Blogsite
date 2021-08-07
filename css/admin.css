@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+}
+.nav{
+    width: 100%;
+    color:white;
+    background: #2b8fa5;
+    text-align: center;
+    border: 1px solid #80C4DE;
+    padding: 20px;
+}
+
+    
+.addbtn{
+    
+        padding: 10px;
+        font-size: 15px;
+        background: #04AA6D;
+        border:none;
+        border-radius: 5px;
+        color: white;
+        cursor: pointer;
+        font-weight: bold;
+        font-size: 20px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-left: 20px;
+     
+}
+.btn1{
+    padding: 8px;
+    font-size: 15px;
+    background:green;
+    border:none;
+    border-radius: 5px;
+    color: white;
+    margin-right: 10px;
+    cursor: pointer;
+ 
+} 
+.btn2{
+    padding: 8px;
+    font-size: 15px;
+    background:red;
+    border:none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+} 
+
+  .btnadd{
+      margin: 20px 0 20px 20px !important;
+  }
+ 
+  .logoutStyle{
+    float: right;
+    margin-right: 60px;
+    color: white;
+    font-size: 20px;
+    position: relative;
+    bottom: 24px;
+  }
+
